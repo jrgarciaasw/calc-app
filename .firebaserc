@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "jrgarcia-react-calc-app",
+    "react-calculator": "jrgarcia-react-calc-app"
+  }
+}
